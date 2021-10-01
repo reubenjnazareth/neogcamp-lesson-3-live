@@ -89,7 +89,8 @@ hr {
 /* header */
 
 .hero {
-    padding: 2rem;
+    padding: 2rem 0rem;
+    
 }
 
 .hero .hero-img {
@@ -101,6 +102,7 @@ hr {
 .hero .hero-heading {
     color: var(--dark-gray);
     text-align: center;
+    font-size: larger;
 }
 
 .hero .heading-inverted {
@@ -114,6 +116,7 @@ hr {
 .section h1 {
     text-align: center;
     padding: 1rem;
+    style= margin: 0px
 } 
 
 .ow {
